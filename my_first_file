@@ -9,5 +9,6 @@ int main() {
     // Empty lines to avoid merge conflicts
     cout << endl; 
     cout << endl; 
+    cout << "Difference: " << a - b;
     return 0;
 }
